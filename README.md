@@ -1,3 +1,5 @@
+Mini-projeto de análise de dados com foco em lógica de negócio e aprendizado prático.
+
 **Análise de Dados – Sample Superstore**
 
   Mini-projeto de análise de dados desenvolvido em Python a partir do dataset SampleSuperstore.
